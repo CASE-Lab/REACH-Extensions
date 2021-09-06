@@ -1,0 +1,63 @@
+Netlist
+
+Exported from CAN_Adapter_ES_PCB.sch at 2020-09-27 10:01
+
+EAGLE Version 9.6.1 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad      Pin        Sheet
+
++3V3     C1       2        2          1
+         IC1      3        VCC        1
+         J2       3        3          1
+         J3       2        2          1
+         R1       2        2          1
+         R3       1        1          1
+
+CAN_N    D8       2        K_2        1
+         IC1      6        CANL       1
+         J3       5        5          1
+
+CAN_P    D8       1        K_1        1
+         IC1      7        CANH       1
+         J3       4        4          1
+
+D        IC1      1        D          1
+         J2       1        1          1
+         R14      1        1          1
+         R15      1        1          1
+
+GND      C1       1        1          1
+         C14      2        2          1
+         D1       C        K          1
+         D8       3        K_3        1
+         IC1      2        GND        1
+         J2       4        4          1
+         J2       MP1      MP1        1
+         J2       MP2      MP2        1
+         J3       3        3          1
+         J3       MP1      MP1        1
+         J3       MP2      MP2        1
+         R2       1        1          1
+
+GNDA     J1       5        GND        1
+         J1       6        GND        1
+         J3       1        1          1
+
+N$1      D1       A        A          1
+         R3       2        2          1
+
+N$2      C14      1        1          1
+         R12      2        2          1
+         R13      2        2          1
+         R14      2        2          1
+         R15      2        2          1
+
+R        IC1      4        R          1
+         J2       2        2          1
+         R12      1        1          1
+         R13      1        1          1
+
+RS       IC1      8        RS         1
+         R1       1        1          1
+         R2       2        2          1
+
