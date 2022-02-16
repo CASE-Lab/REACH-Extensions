@@ -173,7 +173,7 @@
 <text x="-12.5" y="-10.25" size="1.1" layer="21" font="vector" ratio="10" rot="R90">PWR</text>
 <text x="-19" y="-10.5" size="1.1" layer="21" font="vector" ratio="10" rot="R90" align="top-left">CAN_Adapter_ES_Module
 Rev2, 2022.02.06</text>
-<text x="-0.25" y="8.5" size="1" layer="21" font="vector" ratio="10" rot="R180" align="center">REACH Expansion Slot Module</text>
+<text x="-0.25" y="8.5" size="1" layer="21" font="vector" ratio="10" rot="R180" align="center">REACH Expansion Module</text>
 <text x="13.5" y="-3.5" size="1" layer="21" font="vector" ratio="10" align="top-right">D (TX)
 R (RX)
 3V3

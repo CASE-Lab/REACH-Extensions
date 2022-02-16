@@ -172,7 +172,7 @@
 <wire x1="9.504" y1="-11.5" x2="19" y2="-11.5" width="0.2" layer="20"/>
 <text x="-19" y="-10.5" size="1.1" layer="21" font="vector" ratio="10" rot="R90" align="top-left">RS232_Adapter_ES_Module
 Rev5, 2022.02.06</text>
-<text x="0" y="8.5" size="1" layer="21" font="vector" ratio="10" rot="R180" align="center">REACH Expansion Slot Module</text>
+<text x="0" y="8.5" size="1" layer="21" font="vector" ratio="10" rot="R180" align="center">REACH Extension Module</text>
 <text x="9.5" y="-2.75" size="1.016" layer="22" ratio="10" rot="MR0">5V</text>
 <text x="6.25" y="-2.75" size="1.016" layer="22" ratio="10" rot="MR0">12V</text>
 <text x="7" y="3.25" size="1.016" layer="22" ratio="10" rot="MR0" align="center">Select output supply voltage,

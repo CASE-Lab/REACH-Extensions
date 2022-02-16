@@ -222,7 +222,7 @@
                     "type": "gerber_layer"
                 }
             ],
-            "version": "X2"
+            "version": "RS274X"
         },
         {
             "filename_prefix": "CAMOutputs/DrillFiles",
@@ -273,7 +273,7 @@
             ]
         }
     ],
-    "timestamp": "2020-09-15T20:29:51",
+    "timestamp": "2022-02-06T20:06:18",
     "type": "EAGLE CAM job",
     "units": "metric",
     "version": "9.2.0"
